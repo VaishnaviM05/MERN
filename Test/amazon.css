@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+    font-family: arial;
+}
+.navbar{
+    background-color: #0F1111;
+    height: 60px;
+}
+.img{
+    margin-left: 10px;
+}
